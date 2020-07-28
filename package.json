@@ -1,0 +1,25 @@
+{
+  "name": "readme-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readme-gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randze/readme-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randze/readme-gen/issues"
+  },
+  "homepage": "https://github.com/randze/readme-gen#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
